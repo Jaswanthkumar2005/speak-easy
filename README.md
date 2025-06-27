@@ -16,35 +16,66 @@ After watching the videos, users can take quizzes that are related to the lesson
 
 ## 📂 Folder Structure 
 SPEAK-EASY-FINAL/
+
 ├── build/
+
 ├── node_modules/
+
 ├── public/
+
 ├── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ │ ├── Companies.js
+
 │ │ ├── Contact.js
+
 │ │ ├── Doubt.js
+
 │ │ ├── Footer.js
+
 │ │ ├── Navbar.js
+
 │ │ ├── NewsLetter.js
+
 │ │ ├── Quiz.js
+
 │ │ └── Services.js
+
 │ ├── pages/
+
 │ │ ├── HomePage.js
+
 │ │ ├── LanguagesPage.js
+
 │ │ ├── NotFoundPage.js
+
 │ │ ├── QuizPage.js
+
 │ │ ├── SingleLanguagePage.js
+
 │ │ ├── TopicQuiz.js
+
 │ │ └── VideosPage.js
+
 │ ├── utils/
+
 │ ├── App.js
+
 │ ├── index.css
+
 │ └── index.js
+
 ├── .gitignore
+
 ├── package-lock.json
+
 ├── package.json
+
 └── README.md
+
 ## Live Demo
 https://speak-easy-team-27.netlify.app/
